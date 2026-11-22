@@ -98,7 +98,10 @@ python3 src/detector.py
 python3 src/advanced_detectors.py
 ```
 
-Citation
+## License
+This project is licensed under the **PolyForm Noncommercial License 1.0.0** — see the [LICENSE](./LICENSE) file for details. Academic and research use is permitted with proper citation; commercial use requires prior written permission from the author.
+
+## Citation
 If you use this code or findings in your research, please cite the corresponding paper:
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7704859)
 
